@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Map pin">
+  <rect width="240" height="240" fill="#ffffff"/>
+  <path d="M120 30c-38 0-70 31-70 70 0 57 70 130 70 130s70-73 70-130c0-39-32-70-70-70z" fill="#ffe3e3" stroke="#222" stroke-width="4"/>
+  <circle cx="120" cy="100" r="22" fill="#ffffff" stroke="#222" stroke-width="4"/>
+</svg>
