@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Coffee beans">
-  <rect width="240" height="240" fill="#ffffff"/>
-  <ellipse cx="85" cy="120" rx="45" ry="65" fill="#e6d1b8" stroke="#222" stroke-width="4"/>
-  <path d="M70 70c25 35 25 95 0 130" fill="none" stroke="#222" stroke-width="4"/>
-  <ellipse cx="155" cy="120" rx="45" ry="65" fill="#f0dec8" stroke="#222" stroke-width="4"/>
-  <path d="M140 70c25 35 25 95 0 130" fill="none" stroke="#222" stroke-width="4"/>
-</svg>
